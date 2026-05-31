@@ -1,8 +1,11 @@
 {
   "name": "saya-akan-lawan",
   "displayName": "saya akan lawan",
-  "description": "error syntax muncul suara",
-  "version": "0.0.1",
+  "description": "Play the iconic Saya Akan Lawan! sound whenever VS Code detects syntax errors.",
+  "publisher": "Kudeng",
+  "icon": "/images/sayaakanlawan.png",
+  "repository": "https://github.com/RIZKI-KUDENG/saya-akan-lawan",
+  "version": "0.0.2",
   "engines": {
     "vscode": "^1.120.0"
   },
