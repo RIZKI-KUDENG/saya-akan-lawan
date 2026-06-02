@@ -5,7 +5,7 @@
   "publisher": "Kudeng",
   "icon": "/images/sayaakanlawan.png",
   "repository": "https://github.com/RIZKI-KUDENG/saya-akan-lawan",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "engines": {
     "vscode": "^1.120.0"
   },
